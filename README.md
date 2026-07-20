@@ -6,7 +6,13 @@ An app that automatically adds subtitles to videos, usign AI transcription and F
 
 Quite a while ago a friend of mine asked me to create this app so he could scale his work :hehheh:
 
+## Stack
+
+I will probably be using NextJS and Express or Python for the backend.
+
 ## Deploy
+
+Steps to deploy are listed below
 
 ### Frontend
 
